@@ -1,0 +1,2 @@
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.exe
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.pdb

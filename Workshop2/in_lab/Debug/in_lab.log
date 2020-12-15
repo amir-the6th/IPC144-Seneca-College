@@ -1,0 +1,4 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+cashRegister.obj : warning LNK4006: _main already defined in cashRegister- Amri.obj; second definition ignored
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  in_lab.vcxproj -> D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\in_lab\Debug\in_lab.exe
