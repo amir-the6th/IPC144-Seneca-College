@@ -1,0 +1,13 @@
+Name: 				Amirhossein Sabagh
+Student Number: 			152956199
+Email: 				asabagh@myseneca.ca
+Section: 				NFF
+Workshop: 				4 (at-home) Reflection
+
+This week was both hard and easy for me. I learned how to save time by using arrays instead of typing down the variables one by one. I got to admit that I got confused at first as I mistook the definition of parallel arrays for two-dimensional arrays. Overall, I enjoyed the lesson and am looking forward to learning more about arrays so that my code would be more optimized than what is right now.
+ 
+I used arrays to save the temperatures that the user has prompted in the terminal. I used a for loop and first received the data for day 1 and stored it in variables Htemp and Ltemp, and then stored them in the arrays HighTemp[0] and LowTemp[0]. The first for loop ended in there and the second day's temperature gets entered and stored in the next element of those arrays. I could have done this without using arrays; in that case, I would have to define multiple variables like Htemp1, Htemp2, Htemp3, and so on (the same list goes for Ltemp) and then store the temperature of days in those separate variables. Flaws of this method are: First, the code gets too long and confusing. Second, calculations at the end of the code will get harder and there is a high chance that we mess up the calculations. Third, debugging gets harder to do; therefore, it will be more difficult for us to correct the issues.
+ 
+Parallel arrays are the best option if we want to display a record. Multiple arrays that have the same size form a parallel array and then it can be used to print out records like a table. I used parallel arrays for displaying 'Day', 'High' temp, and 'Low' temp. The first section didn't need an array and I just incremented and printed the tempDay value, but for the other two portions, I printed the elements of HighTemp[i] and LowTemp[i].
+ 
+Because the first index of arrays is 0, it is better to initialize iterator valuables to 0 so the possibility of occurring errors or displaying the wrong output would be at its minimum. In my code, I had to initialize the tempDay variable to 1. When I wanted to store the first day's temp in the first element of my array, I had to write HighTemp[tempDay - 1] so that it would store in it correctly. This could have been avoided if I initialized tempDay variable to 0 at first, but then again I would have to do some calculations for " printf("Day %d - High: ", tempDay);". For the next for loops, I assigned the tempDay to and then did the calculation of (tempDay + 1) for showing the days.

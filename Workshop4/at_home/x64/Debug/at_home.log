@@ -1,0 +1,6 @@
+﻿  temps2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_stdio_config.h(107,1): warning C4005: '_CRT_INTERNAL_LOCAL_SCANF_OPTIONS': macro redefinition
+D:\Seneca stuff\IPC144\Workshop4\at_home\temps2.c(10): message : see previous definition of '_CRT_INTERNAL_LOCAL_SCANF_OPTIONS'
+D:\Seneca stuff\IPC144\Workshop4\at_home\temps2.c(105,10): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+D:\Seneca stuff\IPC144\Workshop4\at_home\temps2.c(111,11): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+  at_home.vcxproj -> D:\Seneca stuff\IPC144\Workshop4\at_home\x64\Debug\at_home.exe
