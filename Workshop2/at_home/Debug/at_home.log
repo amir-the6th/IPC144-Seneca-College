@@ -1,0 +1,10 @@
+﻿  cashRegister.c
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(29,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(34,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(39,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(45,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(51,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(57,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(22,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\cashRegister.c(25,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  at_home.vcxproj -> D:\Seneca stuff\IPC144\IPC-Workshops-master\IPC-Workshops-master\WS02\at_home\Debug\at_home.exe
